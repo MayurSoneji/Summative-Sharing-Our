@@ -7,7 +7,9 @@
 
 ## Research
 [Target Audience](https://docs.google.com/document/d/1cdSoW_0uh95UWGMVbwQvqN6213C3Vlr0s487evb1OZs/edit?usp=sharing)
+
 [Companies](https://docs.google.com/document/d/12csLWKW61B4F6zw7QJN6e_7Zu8ZmrGGnR_nWWQHeXVM/edit?usp=sharing)
+
 [Moodboard](https://uk.pinterest.com/mayursoneji/sharing-is-caring/)
 
 ## Formative Video
@@ -19,11 +21,13 @@
 
 ## Project
 [Github Code](https://github.com/MayurSoneji/WaterSharing)
+
 [Live demo](http://sharingiscaring.esy.es/)
 
 # Our Space
 
 [Interviews](https://docs.google.com/document/d/1BnoJ8v_MsSk9YBR3tG87vrmV8Y8hihgD5fd7xGdeQkY/edit?usp=sharing)
+
 [Competitor Analysis](https://docs.google.com/document/d/1HjnIhKJbcPZ3m12K9ISGbte5jMH9O5bvmHv7lDXHGjc/edit?usp=sharing)
 
 ## Content Map
